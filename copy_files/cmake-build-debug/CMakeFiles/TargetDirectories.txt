@@ -1,0 +1,3 @@
+/Users/zarathustra/CLionProjects/copy_files/cmake-build-debug/CMakeFiles/copy_files.dir
+/Users/zarathustra/CLionProjects/copy_files/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zarathustra/CLionProjects/copy_files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
